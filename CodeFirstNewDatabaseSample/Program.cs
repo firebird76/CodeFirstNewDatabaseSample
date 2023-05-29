@@ -1,4 +1,6 @@
-﻿namespace CodeFirstNewDatabaseSample
+﻿using CodeFirstNewDatabaseSample.Data;
+
+namespace CodeFirstNewDatabaseSample
 {
     internal class Program
     {
